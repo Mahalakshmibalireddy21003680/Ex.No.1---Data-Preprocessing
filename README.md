@@ -23,7 +23,7 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 ### Developed by:Balireddy mahalakshmi
-### register no: 212221240008
+### Registration no: 212221240008
 
 ### ALGORITHM:
 Importing the libraries
@@ -61,7 +61,7 @@ df1 = sc.fit_transform(df)
 print(df1)
 ~~~~~~~~~~~~~~~~~~~~~~
 
-##OUTPUT:
+### OUTPUT:
 <img width="922" alt="nn-1" src="https://user-images.githubusercontent.com/93427286/192853502-8f260ecc-ecd5-4af5-b81f-ba871e8e9db2.png">
 <img width="475" alt="nn-2" src="https://user-images.githubusercontent.com/93427286/192853532-881a68c2-1556-4c71-8c55-ba9897db053d.png">
 <img width="485" alt="nn-3" src="https://user-images.githubusercontent.com/93427286/192853544-4e6c7165-a61c-41ef-8040-bd8b391a5822.png">
